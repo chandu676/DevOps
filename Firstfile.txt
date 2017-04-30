@@ -1,10 +1,8 @@
 This is my Second DevOps commit.
 This is my first DevOps commit.
 This is my modification
-<<<<<<< HEAD
 abc
-=======
 This is my Second DevOps commit.
 This is my first DevOps commit.
 This is my modification
->>>>>>> 14a9095d7a9b46173fed322ef472c14bdce1f05f
+
